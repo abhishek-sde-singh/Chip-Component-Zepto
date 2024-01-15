@@ -2,10 +2,6 @@
 
 This document outlines the design and implementation of a custom chip component using React. The component follows specific requirements for functionality and appearance.
 
-## Example Image
-
-![Chip Component Example](./example.png "Chip Component")
-
 ## Specifications
 
 - **Dynamic List Display**: When the input field is clicked, a list of items appears.
